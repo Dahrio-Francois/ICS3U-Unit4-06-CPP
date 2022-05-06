@@ -1,6 +1,6 @@
-// Copyright (c) 2019 St. Mother Teresa HS All rights reserved.
+// Copyright (c) 2022 St. Mother Teresa HS All rights reserved.
 //
-// Created by: Mr. Coxall
+// Created by: Dahrio Francois
 // Created on: May 2022
 // This program uses a nested loop
 
