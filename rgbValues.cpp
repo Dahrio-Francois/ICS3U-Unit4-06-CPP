@@ -18,7 +18,7 @@ int main() {
             for (counter3 = 0; counter3 < 255; counter3++) {
             std::cout << "RGB Values: " << counter1 << " " << counter2 << " "
             << counter3 << std::endl;
+            }
         }
     }
-}
 }
